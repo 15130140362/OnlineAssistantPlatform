@@ -1,5 +1,5 @@
 package com.example.demo;
 
 public interface demoTest {
-    public void machao();
+    public void machao1();
 }
